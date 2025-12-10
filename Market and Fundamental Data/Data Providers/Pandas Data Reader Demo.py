@@ -37,8 +37,6 @@ yahoo.columns = yahoo.columns.get_level_values(0)
 #mpf.plot(yahoo, type='candle')
 #plt.tight_layout()
 
-#Book Data
-
 
 
 
